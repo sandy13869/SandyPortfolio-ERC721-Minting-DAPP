@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ani/static/css/main.cc497378.css",
+    "main.js": "/ani/static/js/main.313b727b.js",
+    "static/media/bg1.gif": "/ani/static/media/bg1.33a2f5e13a2ce4ad86f6.gif",
+    "static/media/ic2.png": "/ani/static/media/ic2.54ad6d1d0911b3de2ea1.png",
+    "static/media/ic1.png": "/ani/static/media/ic1.d3c22e721d188702cd08.png",
+    "static/media/ic3.png": "/ani/static/media/ic3.7d61e8f00f70dbb8a8b8.png",
+    "index.html": "/ani/index.html",
+    "main.cc497378.css.map": "/ani/static/css/main.cc497378.css.map",
+    "main.313b727b.js.map": "/ani/static/js/main.313b727b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc497378.css",
+    "static/js/main.313b727b.js"
+  ]
+}
